@@ -1,0 +1,27 @@
+Opératè: "Mèsi pou ou rele Konpayi XYZ la, mwen rele Sarah. Kijan mwen ka ede ou jodi a?"
+
+Kliyan: "Bonjou, Sarah. Mwen gen yon pwoblèm ak koneksyon entènèt mwen. Li vin trè pou, e mwen pa konnen sa pou fè."
+
+Opératè: "Mwen dezole pou tande sa. Ann mwen gade kont ou pou mwen ka ede ou pi byen. Tanpri, ban mwen nimewo kont ou oswa nimewo telefòn ki asosye ak kont ou a."
+
+Kliyan: "Wi, nimewo kont mwen se 123456789."
+
+Opératè: "Mèsi. Mwen wè kont ou la. Anvan nou kontinye, tanpri konfime non konplè ou ak adrès ou."
+
+Kliyan: "Wi, non mwen se John Smith, e adrès mwen se 123 Elm Street, Springfield, IL 62704."
+
+Opératè: "Mèsi pou enfòmasyon yo, John. Kounye a, mwen pral fè kèk dyagnostik sou koneksyon entènèt ou. Pandan tan sa a, tanpri di mwen si ou te eseye kèk etap depistaj sou kont ou."
+
+Kliyan: "Mwen te eseye redemare modem mwen ak routeur mwen, men li pa ede."
+
+Opératè: "Mèsi pou ou te eseye sa. Mwen wè pa genyen rapò koupwi nan zòn ou. Mwen fin fè dyagnostik yo, e li parèt gen yon pwoblèm ak modem ou. Tanpri, verifye make ak modèl modem ou a."
+
+Kliyan: "Se yon Netgear CM1000."
+
+Opératè: "Mèsi. Mwen rekòmande pou ou eseye yon reyinisyalizasyon faktori sou modem ou. Pou fè sa, tanpri jwenn bouton reset ti piti nan do modem ou a, itilize yon zepeng oswa yon objè ki sanble pou sèvi ak bouton an pou 10 segond, epi lage l. Modem lan pral redemare, e limyè yo dwe retounen nan nòmal. Tanpri, di mwen si sa rezoud pwoblèm lan."
+
+Kliyan: "Byen, mwen jis fè sa. Li sanble li ap travay pi byen kounye a. Koneksyon an pi rapid."
+
+Opératè: "Mwen kontan tande sa! Se posib ke modem lan te bezwen yon mete ajou lojisyèl oswa efase nenpòt amasman kach. Si ou rankontre nenpòt lòt pwoblèm, tanpri pa ezite pou rele nou tounen. Gen anyen lòt mwen ka ede ou avèk jodi a?"
+
+Kliyan: "Non, se tout. Mè
