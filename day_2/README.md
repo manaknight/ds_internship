@@ -2,7 +2,12 @@
 
 # Day 2
 
-Given this data from customer feedback, implement flask api that uses the following decision tree algorithm to figure out recommendation based on the inputs. Decision tree algorithms random forest, ID3, CART, adaboost
+Given this data from customer feedback, implement flask api that uses the following decision tree algorithm to figure out recommendation based on the inputs. 
+
+Decision tree algorithms random forest, ID3, CART, adaboost.
+
+DO NOT USE OPEN AI
+
 data = '''
 Preference Red_Wine White_Wine Recommendation
 Red Light-Bodied None Pinot Noir
